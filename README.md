@@ -4,6 +4,8 @@ Krita brush presets take time to create. On top of the brush settings, you have 
 
 That's what this brush thumbnail generator is for. It takes some sprites, Krita brush presets, CSV data and generates new brush thumbnails.
 
+I use it for the [Krita brushes for game artist](https://gumroad.com/l/krita-brushes-for-game-artists)
+
 ## How to use
 
 ### The sprites
