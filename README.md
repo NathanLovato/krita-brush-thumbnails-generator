@@ -1,6 +1,8 @@
 # Krita brushes thumbnail generator
 
-This tool takes some sprites, Krita brush presets, CSV data and generates new brush thumbnails.
+Krita brush presets take time to create. On top of the brush settings, you have to draw your own thumbnails one by one, which adds to the workload. You'll likely reuse backgrounds and pictograms. Editing existing thumbnails can be time-consuming too. As your brush set grows, you'll likely have to redesign some older presets as well. 
+
+That's what this brush thumbnail generator is for. It takes some sprites, Krita brush presets, CSV data and generates new brush thumbnails.
 
 ## How to use
 
