@@ -1,10 +1,14 @@
 # Krita brushes thumbnail generator
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/NathanLovato/krita-brush-thumbnails-generator/master/img/thumbnail-example.png" alt="Example with four layers that make up a complete thumbnail" />
+</p>
+
 Krita brush presets take time to create. On top of the brush settings, you have to draw your own thumbnails one by one, which adds to the workload. You'll likely reuse backgrounds and pictograms. Editing existing thumbnails can be time-consuming too. As your brush set grows, you'll likely have to redesign some older presets as well. 
 
 That's what this brush thumbnail generator is for. It takes some sprites, Krita brush presets, CSV data and generates new brush thumbnails.
 
-I use it for the [Krita brushes for game artist](https://gumroad.com/l/krita-brushes-for-game-artists)
+I use it for the [Krita brushes for game artist](https://gumroad.com/l/krita-brushes-for-game-artists) and the [free Krita Brushes](https://github.com/GDquest/free-krita-brushes/)
 
 ## How to use
 
@@ -12,12 +16,13 @@ I use it for the [Krita brushes for game artist](https://gumroad.com/l/krita-bru
 
 All sprites should be the same size! Krita uses 200px * 200px pictures for its presets' thumbnails.
 
-Each thumbnail has up to 4 layers:
+Each thumbnail has up to four layers:
 
 1. The base, or its background
 2. The stroke
 3. The outline
 4. The pictogram
+
 
 The tool comes with demo assets. Feel free to use them to design your own brushes, and run the script to see how it works (see below).
 

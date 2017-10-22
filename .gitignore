@@ -1,4 +1,5 @@
 *.psd
 *.xlsx
+*.afdesign
 create_and_name_layers.py
 brush_data_to_csv.py
